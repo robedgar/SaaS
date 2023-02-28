@@ -5,4 +5,4 @@ It is a full stack application.
 
 **Example**
 
-<img src="https://raw.githubusercontent.com/pixegami/copykitt-tutorial/main/images/copykitt_results.png" width="200">
+<img src="https://raw.githubusercontent.com/pixegami/copykitt-tutorial/main/images/copykitt_results.png" align="center">
