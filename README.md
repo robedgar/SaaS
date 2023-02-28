@@ -7,8 +7,6 @@ Try out the demo here (requires authentication):
 
 <img align="center" src="https://raw.githubusercontent.com/pixegami/copykitt-tutorial/main/images/copykitt_results.png" >
 
-**Tech Stack**
-
 ---
 
 Backend Stack
