@@ -9,7 +9,7 @@ Try out the demo here (requires authentication):
 
 ---
 
-Backend Stack
+**Backend Stack**
 
 | Type      |          Tech          |
 | --------- | :--------------------: |
@@ -18,7 +18,7 @@ Backend Stack
 | Hosting   |    AWS(Lambda+ Api)    |
 | Other     | OpenAi, AWS CDK Docker |
 
-Frontend Stack
+**Frontend Stack**
 
 | Type      |      Tech      |
 | --------- | :------------: |
