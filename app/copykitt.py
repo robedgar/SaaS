@@ -4,7 +4,7 @@ import openai
 import argparse
 import re
 
-MAX_INPUT_LENGTH = 12
+MAX_INPUT_LENGTH = 32
 
 def main():
     
