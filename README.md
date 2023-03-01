@@ -3,7 +3,7 @@
 This is a SaaS application that generates AI branding snippets and keywords for the customer's brand.
 It is a full stack application.
 
-Try out the demo here (requires authentication):
+Try out the demo here : https://copykitt-green.vercel.app/
 
 <img align="center" src="https://raw.githubusercontent.com/pixegami/copykitt-tutorial/main/images/copykitt_results.png" >
 
