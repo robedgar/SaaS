@@ -52,7 +52,7 @@ const Results: React.FC<ResultsProps> = (props) => {
         >
           Back
         </button>
-        <div className="text-lg text-gray-400 pt-4 text-center">
+        <div className="text-md text-gray-400 pt-4 text-center">
           <a href="https://robertedgar.co.uk/" target="_blank">
             Built by Robert Edgar
           </a>
