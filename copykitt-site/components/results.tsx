@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 interface ResultsProps {
   prompt: string;
   snippet: string;
@@ -42,13 +44,20 @@ const Results: React.FC<ResultsProps> = (props) => {
         {resultSection('Branding Snippet', props.snippet)}
         {resultSection('Keywords', keywordElementsHolder)}
       </div>
-      <button
-        className="bg-gradient-to-r from-teal-400 
+      <div className="">
+        <button
+          className="bg-gradient-to-r from-teal-400 
           to-blue-500 disabled:opacity-50 w-full p-2 rounded-md text-lg"
-        onClick={props.onBack}
-      >
-        Back
-      </button>
+          onClick={props.onBack}
+        >
+          Back
+        </button>
+        <div className="text-lg text-gray-400 pt-4 text-center">
+          <a href="https://robertedgar.co.uk/" target="_blank">
+            Built by Robert Edgar
+          </a>
+        </div>
+      </div>
     </>
   );
 };
